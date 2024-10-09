@@ -7,6 +7,8 @@ This project explores gender parity in access to water and the challenges surrou
 
 Our goal is to highlight the disparities between men and women in water access and to shed light on the risks and challenges they face. Through gender-specific data analysis, this project aims to inform better decision-making and encourage solutions for safer, more equitable access to water.
 
+**_Disclaimer_**: All datasets and reports do not represent any company, institutions or country but just a fictional dataset to demonstrate the capabilities of power BI
+
 Key objectives of the project include:
 
 - Visualizing queue compositions of men, women, and children over various days across different provinces to understand demographics accessing these vital resources.
