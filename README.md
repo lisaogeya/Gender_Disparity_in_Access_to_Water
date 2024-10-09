@@ -1,4 +1,4 @@
-# Gender_Disparity_IN_Access_to_Water
+# Gender_Disparity_in_Access_to_Water
 ![](maji_n_past.webp)
 
 ## Introduction
